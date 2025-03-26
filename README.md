@@ -1,4 +1,4 @@
-if getgenv().hub then warn("Nome do seu HUB : Already executed!") return end
+if getgenv().hub then warn("tubergamer hub : Already executed!") return end
 
 getgenv().hub = true
 
