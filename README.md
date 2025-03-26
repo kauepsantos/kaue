@@ -240,7 +240,7 @@ function ShowNotification(String)
 
     Fluent:Notify({
 
-        Title = "Nome do seu HUB",
+        Title = "tubergamer hub",
 
         Content = String,
 
@@ -1019,9 +1019,6 @@ PlayerGui.DescendantAdded:Connect(function(descendant)
     end
 
 end)
-
-
-
 
 -- // // // Exclusives // // // --
 
