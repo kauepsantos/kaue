@@ -130,9 +130,9 @@ end
 
 local Window = Fluent:CreateWindow({
 
-    Title = game:GetService("MarketplaceService"):GetProductInfo(16732694052).Name .." | Nome do seu HUB - Premium",
+    Title = game:GetService("MarketplaceService"):GetProductInfo(16732694052).Name .." tubergamer 1.3 - premium free",
 
-    SubTitle = " (discord.gg/J37PW97j6a)", -- discord link
+    SubTitle = " ()", -- discord link
 
     TabWidth = 160,
 
@@ -1022,6 +1022,7 @@ end)
 
 
 
+
 -- // // // Exclusives // // // --
 
 local shadowCountLabel = Instance.new("TextLabel", screenGui)
@@ -1032,7 +1033,7 @@ shadowCountLabel.Position = UDim2.new(0, 30, 0, 260)
 
 shadowCountLabel.BackgroundTransparency = 0.5
 
-shadowCountLabel.BackgroundColor3 = Color3.fromRGB(38, 38, 38) 
+shadowCountLabel.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
 
 shadowCountLabel.TextColor3 = Color3.new(220, 125, 255)
 
